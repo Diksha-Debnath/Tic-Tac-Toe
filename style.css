@@ -27,8 +27,8 @@ body{
  .box{
     height: 18vmin;
     width: 18vmin;
-    border:2px solid #3E8EDE;
-    background-color:#2522CA;
+    border:2px solid #007BB8;
+    background-color:#3E8EDE;
     border-radius: 15%;
     box-shadow: 0 0 1rem rgba(0,0,0,.7);
     font-size: 8vmin;
